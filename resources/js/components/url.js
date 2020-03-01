@@ -1,3 +1,3 @@
-const url = "https://ars.dev";
+const url = "https://myappars.herokuapp.com";
 
 export default url;
